@@ -7,6 +7,10 @@
 //
 
 #import "SleepAppDelegate.h"
+#import "NowViewController.h"
+#import "MorningViewController.h"
+#import "TheoryViewController.h"
+#import "BedTimeViewController.h"
 
 @implementation SleepAppDelegate
 
@@ -14,6 +18,16 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    UITabBarController *tabBar = [[UITabBarController alloc] init];
+    NowViewController *nvc = [[NowViewController alloc] init];
+    MorningViewController *mvc = [[MorningViewController alloc] init];
+    TheoryViewController *tvc = [[TheoryViewController alloc] init];
+    BedTimeViewController *btvc = [[BedTimeViewController alloc] init];
+    
+    NSArray *tabBarItems = [NSArray arrayWithObjects: tvc, nvc, btvc, mvc, nil];
+    [tabBar setViewControllers: tabBarItems];
+    [[self window] setRootViewController: tabBar];
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;

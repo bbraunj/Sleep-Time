@@ -16,6 +16,31 @@
 		7CBA7C01168DEFA80018D62C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C00168DEFA80018D62C /* Default.png */; };
 		7CBA7C03168DEFA80018D62C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C02168DEFA80018D62C /* Default@2x.png */; };
 		7CBA7C05168DEFA80018D62C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C04168DEFA80018D62C /* Default-568h@2x.png */; };
+		7CBA7C1F168DF5AC0018D62C /* NowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CBA7C1D168DF5AC0018D62C /* NowViewController.m */; };
+		7CBA7C20168DF5AD0018D62C /* NowViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C1E168DF5AC0018D62C /* NowViewController.xib */; };
+		7CBA7C25168DF5B90018D62C /* MorningViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CBA7C23168DF5B90018D62C /* MorningViewController.m */; };
+		7CBA7C26168DF5B90018D62C /* MorningViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C24168DF5B90018D62C /* MorningViewController.xib */; };
+		7CBA7C2A168DF5C60018D62C /* TheoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CBA7C28168DF5C60018D62C /* TheoryViewController.m */; };
+		7CBA7C2B168DF5C60018D62C /* TheoryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C29168DF5C60018D62C /* TheoryViewController.xib */; };
+		7CBA7C35168E036B0018D62C /* clock@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C34168E036B0018D62C /* clock@2x.png */; };
+		7CBA7C37168E037C0018D62C /* clock.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C36168E037C0018D62C /* clock.png */; };
+		7CBA7C4D168E17AD0018D62C /* TimeTable.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C4C168E17AD0018D62C /* TimeTable.png */; };
+		7CBA7C4F168E195D0018D62C /* TimeDivider.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C4E168E195D0018D62C /* TimeDivider.png */; };
+		7CBA7C52168E1CD00018D62C /* MorningIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C50168E1CD00018D62C /* MorningIcon.png */; };
+		7CBA7C53168E1CD00018D62C /* MorningIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C51168E1CD00018D62C /* MorningIcon@2x.png */; };
+		7CBA7C55168E24840018D62C /* TheoryChart.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C54168E24840018D62C /* TheoryChart.png */; };
+		7CBA7C58168E2AC90018D62C /* TheoryIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C56168E2AC90018D62C /* TheoryIcon.png */; };
+		7CBA7C59168E2AC90018D62C /* TheoryIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C57168E2AC90018D62C /* TheoryIcon@2x.png */; };
+		7CBA7C69168E4E5E0018D62C /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C68168E4E5E0018D62C /* Icon.png */; };
+		7CBA7C6B168E4E610018D62C /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C6A168E4E610018D62C /* Icon@2x.png */; };
+		7CBA7C73168E58050018D62C /* BedTimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CBA7C71168E58050018D62C /* BedTimeViewController.m */; };
+		7CBA7C74168E58050018D62C /* BedTimeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C72168E58050018D62C /* BedTimeViewController.xib */; };
+		7CBA7C7C168E64720018D62C /* BedTimeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C7A168E64720018D62C /* BedTimeIcon.png */; };
+		7CBA7C7D168E64720018D62C /* BedTimeIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C7B168E64720018D62C /* BedTimeIcon@2x.png */; };
+		7CBA7C89168F6D350018D62C /* Icon 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C88168F6D350018D62C /* Icon 2.png */; };
+		7CBA7C8B168F6D3E0018D62C /* Icon@2x 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C8A168F6D3E0018D62C /* Icon@2x 2.png */; };
+		7CBA7C8E168F6FEC0018D62C /* Sleep Time Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C8C168F6FEC0018D62C /* Sleep Time Background.png */; };
+		7CBA7C8F168F6FEC0018D62C /* Sleep Time Background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CBA7C8D168F6FEC0018D62C /* Sleep Time Background@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +57,35 @@
 		7CBA7C00168DEFA80018D62C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		7CBA7C02168DEFA80018D62C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		7CBA7C04168DEFA80018D62C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		7CBA7C1C168DF5AC0018D62C /* NowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NowViewController.h; sourceTree = "<group>"; };
+		7CBA7C1D168DF5AC0018D62C /* NowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NowViewController.m; sourceTree = "<group>"; };
+		7CBA7C1E168DF5AC0018D62C /* NowViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NowViewController.xib; sourceTree = "<group>"; };
+		7CBA7C22168DF5B90018D62C /* MorningViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MorningViewController.h; sourceTree = "<group>"; };
+		7CBA7C23168DF5B90018D62C /* MorningViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MorningViewController.m; sourceTree = "<group>"; };
+		7CBA7C24168DF5B90018D62C /* MorningViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MorningViewController.xib; sourceTree = "<group>"; };
+		7CBA7C27168DF5C60018D62C /* TheoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TheoryViewController.h; sourceTree = "<group>"; };
+		7CBA7C28168DF5C60018D62C /* TheoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TheoryViewController.m; sourceTree = "<group>"; };
+		7CBA7C29168DF5C60018D62C /* TheoryViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TheoryViewController.xib; sourceTree = "<group>"; };
+		7CBA7C34168E036B0018D62C /* clock@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clock@2x.png"; sourceTree = "<group>"; };
+		7CBA7C36168E037C0018D62C /* clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clock.png; sourceTree = "<group>"; };
+		7CBA7C4C168E17AD0018D62C /* TimeTable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TimeTable.png; sourceTree = "<group>"; };
+		7CBA7C4E168E195D0018D62C /* TimeDivider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TimeDivider.png; sourceTree = "<group>"; };
+		7CBA7C50168E1CD00018D62C /* MorningIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MorningIcon.png; sourceTree = "<group>"; };
+		7CBA7C51168E1CD00018D62C /* MorningIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MorningIcon@2x.png"; sourceTree = "<group>"; };
+		7CBA7C54168E24840018D62C /* TheoryChart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TheoryChart.png; sourceTree = "<group>"; };
+		7CBA7C56168E2AC90018D62C /* TheoryIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TheoryIcon.png; sourceTree = "<group>"; };
+		7CBA7C57168E2AC90018D62C /* TheoryIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TheoryIcon@2x.png"; sourceTree = "<group>"; };
+		7CBA7C68168E4E5E0018D62C /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		7CBA7C6A168E4E610018D62C /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		7CBA7C70168E58050018D62C /* BedTimeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BedTimeViewController.h; sourceTree = "<group>"; };
+		7CBA7C71168E58050018D62C /* BedTimeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BedTimeViewController.m; sourceTree = "<group>"; };
+		7CBA7C72168E58050018D62C /* BedTimeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BedTimeViewController.xib; sourceTree = "<group>"; };
+		7CBA7C7A168E64720018D62C /* BedTimeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BedTimeIcon.png; sourceTree = "<group>"; };
+		7CBA7C7B168E64720018D62C /* BedTimeIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BedTimeIcon@2x.png"; sourceTree = "<group>"; };
+		7CBA7C88168F6D350018D62C /* Icon 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon 2.png"; sourceTree = "<group>"; };
+		7CBA7C8A168F6D3E0018D62C /* Icon@2x 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x 2.png"; sourceTree = "<group>"; };
+		7CBA7C8C168F6FEC0018D62C /* Sleep Time Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sleep Time Background.png"; sourceTree = "<group>"; };
+		7CBA7C8D168F6FEC0018D62C /* Sleep Time Background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sleep Time Background@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +105,10 @@
 		7CBA7BDF168DEFA80018D62C = {
 			isa = PBXGroup;
 			children = (
+				7CBA7C8A168F6D3E0018D62C /* Icon@2x 2.png */,
+				7CBA7C88168F6D350018D62C /* Icon 2.png */,
+				7CBA7C6A168E4E610018D62C /* Icon@2x.png */,
+				7CBA7C68168E4E5E0018D62C /* Icon.png */,
 				7CBA7BF4168DEFA80018D62C /* Sleep Time */,
 				7CBA7BED168DEFA80018D62C /* Frameworks */,
 				7CBA7BEB168DEFA80018D62C /* Products */,
@@ -80,6 +138,18 @@
 			children = (
 				7CBA7BFD168DEFA80018D62C /* SleepAppDelegate.h */,
 				7CBA7BFE168DEFA80018D62C /* SleepAppDelegate.m */,
+				7CBA7C70168E58050018D62C /* BedTimeViewController.h */,
+				7CBA7C71168E58050018D62C /* BedTimeViewController.m */,
+				7CBA7C72168E58050018D62C /* BedTimeViewController.xib */,
+				7CBA7C1C168DF5AC0018D62C /* NowViewController.h */,
+				7CBA7C1D168DF5AC0018D62C /* NowViewController.m */,
+				7CBA7C1E168DF5AC0018D62C /* NowViewController.xib */,
+				7CBA7C22168DF5B90018D62C /* MorningViewController.h */,
+				7CBA7C23168DF5B90018D62C /* MorningViewController.m */,
+				7CBA7C24168DF5B90018D62C /* MorningViewController.xib */,
+				7CBA7C27168DF5C60018D62C /* TheoryViewController.h */,
+				7CBA7C28168DF5C60018D62C /* TheoryViewController.m */,
+				7CBA7C29168DF5C60018D62C /* TheoryViewController.xib */,
 				7CBA7BF5168DEFA80018D62C /* Supporting Files */,
 			);
 			path = "Sleep Time";
@@ -88,6 +158,19 @@
 		7CBA7BF5168DEFA80018D62C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7CBA7C8C168F6FEC0018D62C /* Sleep Time Background.png */,
+				7CBA7C8D168F6FEC0018D62C /* Sleep Time Background@2x.png */,
+				7CBA7C7A168E64720018D62C /* BedTimeIcon.png */,
+				7CBA7C7B168E64720018D62C /* BedTimeIcon@2x.png */,
+				7CBA7C56168E2AC90018D62C /* TheoryIcon.png */,
+				7CBA7C57168E2AC90018D62C /* TheoryIcon@2x.png */,
+				7CBA7C54168E24840018D62C /* TheoryChart.png */,
+				7CBA7C4E168E195D0018D62C /* TimeDivider.png */,
+				7CBA7C4C168E17AD0018D62C /* TimeTable.png */,
+				7CBA7C50168E1CD00018D62C /* MorningIcon.png */,
+				7CBA7C51168E1CD00018D62C /* MorningIcon@2x.png */,
+				7CBA7C36168E037C0018D62C /* clock.png */,
+				7CBA7C34168E036B0018D62C /* clock@2x.png */,
 				7CBA7BF6168DEFA80018D62C /* Sleep Time-Info.plist */,
 				7CBA7BF7168DEFA80018D62C /* InfoPlist.strings */,
 				7CBA7BFA168DEFA80018D62C /* main.m */,
@@ -109,6 +192,7 @@
 				7CBA7BE6168DEFA80018D62C /* Sources */,
 				7CBA7BE7168DEFA80018D62C /* Frameworks */,
 				7CBA7BE8168DEFA80018D62C /* Resources */,
+				50524F424C454D533F /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -155,10 +239,47 @@
 				7CBA7C01168DEFA80018D62C /* Default.png in Resources */,
 				7CBA7C03168DEFA80018D62C /* Default@2x.png in Resources */,
 				7CBA7C05168DEFA80018D62C /* Default-568h@2x.png in Resources */,
+				7CBA7C20168DF5AD0018D62C /* NowViewController.xib in Resources */,
+				7CBA7C26168DF5B90018D62C /* MorningViewController.xib in Resources */,
+				7CBA7C2B168DF5C60018D62C /* TheoryViewController.xib in Resources */,
+				7CBA7C35168E036B0018D62C /* clock@2x.png in Resources */,
+				7CBA7C37168E037C0018D62C /* clock.png in Resources */,
+				7CBA7C4D168E17AD0018D62C /* TimeTable.png in Resources */,
+				7CBA7C4F168E195D0018D62C /* TimeDivider.png in Resources */,
+				7CBA7C52168E1CD00018D62C /* MorningIcon.png in Resources */,
+				7CBA7C53168E1CD00018D62C /* MorningIcon@2x.png in Resources */,
+				7CBA7C55168E24840018D62C /* TheoryChart.png in Resources */,
+				7CBA7C58168E2AC90018D62C /* TheoryIcon.png in Resources */,
+				7CBA7C59168E2AC90018D62C /* TheoryIcon@2x.png in Resources */,
+				7CBA7C69168E4E5E0018D62C /* Icon.png in Resources */,
+				7CBA7C6B168E4E610018D62C /* Icon@2x.png in Resources */,
+				7CBA7C74168E58050018D62C /* BedTimeViewController.xib in Resources */,
+				7CBA7C7C168E64720018D62C /* BedTimeIcon.png in Resources */,
+				7CBA7C7D168E64720018D62C /* BedTimeIcon@2x.png in Resources */,
+				7CBA7C89168F6D350018D62C /* Icon 2.png in Resources */,
+				7CBA7C8B168F6D3E0018D62C /* Icon@2x 2.png in Resources */,
+				7CBA7C8E168F6FEC0018D62C /* Sleep Time Background.png in Resources */,
+				7CBA7C8F168F6FEC0018D62C /* Sleep Time Background@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		50524F424C454D533F /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export CODESIGN_ALLOCATE=/Library/JailCoder/codesign_allocate\nif [ \"${PLATFORM_NAME}\" == \"iphoneos\" ]; then\n/Library/JailCoder/Entitlements/Entitlements.py \"my.company.${PROJECT_NAME}\" \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}/${PROJECT_NAME}.xcent\";\ncodesign -f -s \"iPhone Developer\" --entitlements \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}/${PROJECT_NAME}.xcent\" \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}/\"\nfi";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		7CBA7BE6168DEFA80018D62C /* Sources */ = {
@@ -167,6 +288,10 @@
 			files = (
 				7CBA7BFB168DEFA80018D62C /* main.m in Sources */,
 				7CBA7BFF168DEFA80018D62C /* SleepAppDelegate.m in Sources */,
+				7CBA7C1F168DF5AC0018D62C /* NowViewController.m in Sources */,
+				7CBA7C25168DF5B90018D62C /* MorningViewController.m in Sources */,
+				7CBA7C2A168DF5C60018D62C /* TheoryViewController.m in Sources */,
+				7CBA7C73168E58050018D62C /* BedTimeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,7 +318,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -221,7 +346,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -275,6 +400,7 @@
 				7CBA7C0A168DEFA80018D62C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
